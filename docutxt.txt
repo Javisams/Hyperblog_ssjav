@@ -1,8 +1,8 @@
-Esto es un título
+Esto es un proyecto de Tesis
 
-Esto es un título centrado
+Esto es un el overview
 
 Aquí va un párrafo con negrita, cursiva, subrayado y colores.
 
 
-Y esto de arriba es la foto de unas Suricatas.
+Y esto de arriba es la portada de la universidad.
