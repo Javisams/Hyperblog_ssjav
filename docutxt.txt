@@ -4,6 +4,9 @@ Esto es un el overview
 
 Aquí va un párrafo con negrita, cursiva, subrayado y colores.
 
+La comunidad esta contribuyendo a este proyecto open source.
+Lo trabajare de la perspectiva de una Analista de Core CS
+
 
 Y esto de arriba es la portada de la universidad.
 
