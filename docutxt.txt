@@ -12,6 +12,8 @@ Y esto de arriba es la portada de la universidad.
 
 Agregamos el indice a desarrollar...
 
+Agrege una linea al main 1.
+
 Agregamos una linea erronea 12.
 
 agregamos new linea al repositorio
