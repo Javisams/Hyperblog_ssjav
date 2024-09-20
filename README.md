@@ -9,6 +9,7 @@ actualmente los paper y cursos te muestran repositorios en Github....
 * El flujo de trabajo en GitHub.
 * La buenas practicas al usar Git en un computador.
 * El uso colaborativo de GitHub.
+* En el Team Platzi se aprende bien cada dia...
 
 Y para finalizar, como dice el Team de Platzi, **Nunca pares de aprender...**
 sl2
